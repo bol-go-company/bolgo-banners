@@ -1,6 +1,9 @@
 {
     "banners": [
-        "https://firebasestorage.googleapis.com/v0/b/bol-go-2f57f.firebasestorage.app/o/file_000000005150622fbf5641f74e2b1a98.png?alt=media&token=eeeebad9-8537-434b-a29e-d033052e0c8e",
+        {
+      "image":  "https://firebasestorage.googleapis.com/v0/b/bol-go-2f57f.firebasestorage.app/o/file_000000005150622fbf5641f74e2b1a98.png?alt=media&token=eeeebad9-8537-434b-a29e-d033052e0c8e",
+       "merchantId": "QT5NjQaJ8WSTlRRTip8x15gcBDy2"
+        }
         "https://firebasestorage.googleapis.com/v0/b/bol-go-2f57f.firebasestorage.app/o/file_0000000007f861f8b5fb1ee44ec9a5ae.png?alt=media&token=c247fc07-db75-4d28-a2ce-3dd8efe4b8b6"
     ]
 }
